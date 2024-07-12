@@ -267,6 +267,7 @@
     color: white;
     animation: 35s loading ease 0s;
     font-size: 30px;
+      opacity: 0;
   }
   @keyframes loading {
     0%, 22.857% {
