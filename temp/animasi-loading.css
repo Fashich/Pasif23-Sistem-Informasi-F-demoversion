@@ -1,0 +1,11 @@
+keyframes animasi-loading {
+    0%, 22.857% {
+        opacity: 0%;
+    }
+    25.714%, 82.857% {
+        opacity: 100%;
+    }
+    85.714%, 100% {
+        opacity: 0%;
+    }
+  }
