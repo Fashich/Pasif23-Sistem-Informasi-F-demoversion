@@ -1,0 +1,13 @@
+{
+  "livePreview.defaultPreviewPath": "/index.html",
+  "liveServer.settings.port": 5500,
+  "liveServer.settings.host": "Pasif23",
+  "liveServer.settings.root": "/",
+  "liveServer.settings.noBrowser": false,
+  "liveServer.settings.ignoreFiles": [
+    ".vscode/**",
+    "**/*.scss",
+    "**/*.sass"
+  ],
+  "liveServer.settings.wait": 1000
+}
